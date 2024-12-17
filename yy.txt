@@ -1,6 +1,4 @@
-
 央视频道IPV6,#genre#
-
 CCTV1[ipv6],https://epg.pw/stream/8f2fe0a36753daf5033df67666c94fbcb82d57e5f326733baa3fa5526c3c0bcd.m3u8
 CCTV1[ipv6],https://epg.pw/stream/0708164a2201ab82eb0c3f2d3ede428571b1b4bb1b8d3cfb3a9ed1201dd2fe68.m3u8
 CCTV1[ipv6],https://epg.pw/stream/429ae5e0377c05e43ec9fa7aae9d77ccafe257fdca1816d8044bfd285f231613.m3u8
