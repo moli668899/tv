@@ -359,7 +359,8 @@
                                                                                                                                                               "filterable": 1,
                                                                                                                                                                     "jar": "https://gitee.com/zt205yzy/live-streaming-source-library/raw/jar/HCCX.jar",
                                                                                                                                                                           "ext": "https://gitee.com/zt205yzy/live-streaming-source-library/raw/jar/相声.json"
-          ],
+   }   
+],
             "parses": [
                     {
                               "name": "小蜜蜂",
